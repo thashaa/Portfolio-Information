@@ -11,7 +11,7 @@ I'm a Quality Assurance with 3 years of experience testing web, mobile, and desk
 > ***(All examples below are created for demonstration purposes. Real work is under NDA.)***
 
 ### 📄 Test Cases  
-- **[SauceDemo Test Cases All Flow](https://docs.google.com/spreadsheets/d/1u6c14uou3IjPN-DQAUHiBZb8oeb1ZDAmAeqPf2iSLUk/edit?usp=sharing)**  
+- **[SauceDemo Test Cases All Flow](https://docs.google.com/spreadsheets/d/1u6c14uou3IjPN-DQAUHiBZb8oeb1ZDAmAeqPf2iSLUk/edit?usp=sharing)**  _ongoing_
 
 
 ### 🐞 Bug Reports  
