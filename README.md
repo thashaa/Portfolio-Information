@@ -17,6 +17,9 @@ I'm a Quality Assurance with 3 years of experience testing web, mobile, and desk
 ### 🐞 Bug Reports  
 - **[Bug Report for Demoblaze.com](https://docs.google.com/spreadsheets/d/1VywlclAHCO0gqcjG6WjwRsoU_Dv5Y-FvygR-3VgYFOc/edit?usp=sharing)**
 
+### Automation  
+- **[Final Project from Bootcamp](https://github.com/thashaa/Final_Project)**
+
 ## 🌐 **Demo Projects Used for Testing**
 Here are public demo sites I used to build NDA-safe examples:
 - 🛒 [**Sauce Demo**](https://www.saucedemo.com/) – E-commerce demo site  
