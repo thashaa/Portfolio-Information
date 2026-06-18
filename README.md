@@ -42,4 +42,3 @@ Here are public demo sites I used to build NDA-safe examples:
 
 ---
 
-✨ *Last updated: August 2025*
